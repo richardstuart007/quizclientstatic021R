@@ -1,6 +1,6 @@
 {
   "name": "quizclientstatic21r",
-  "homepage": "https://richardstuart007.github.io/quizclientstatic021R",
+  "homepage": ".",
   "version": "1.21.0",
   "private": true,
   "dependencies": {
@@ -58,13 +58,6 @@
   "devDependencies": {
     "eslint-plugin-react-hooks": "^4.3.0",
     "gh-pages": "^4.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/richardstuart007/quizclientstatic021R.git"
-  },
-  "bugs": {
-    "url": "https://github.com/richardstuart007/quizclientstatic021R/issues"
   },
   "description": ""
 }
